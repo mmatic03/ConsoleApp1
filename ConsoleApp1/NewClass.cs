@@ -6,7 +6,7 @@ namespace ConsoleApp1
 {
     class NewClass
     {
-
+    metoda a + a
 
     }
 }
